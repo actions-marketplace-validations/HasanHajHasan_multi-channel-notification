@@ -1,5 +1,9 @@
 # Multi-Channel Notification Action
 
+> **:boom:New version available::boom:**  
+> The new version of this GitHub Action is available here:  
+> https://github.com/HasanHajHasan/multi-notification-channels
+
 A GitHub Action to send notifications to Slack, Telegram, and Email using [Apprise](https://github.com/caronc/apprise). This action provides beautiful default templates and supports custom templating.
 
 ## Features
